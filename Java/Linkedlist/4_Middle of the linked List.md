@@ -1,0 +1,1 @@
+imagine two person in a race if the one of them run two times faster from the other person it's if one of them in end line the other person will in half (middle) of the way ![[Untitled.png]]

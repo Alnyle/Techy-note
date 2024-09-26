@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "224ccce24f0c8c6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4882ef7d382f26fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d98cd945ef67eec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Registry vs Repository.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5a5aecd958572c8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2a00d827a448a4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc52e1cf88711d1d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c1f6c8759b875187",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d40596dac7b447bf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3971705a5eac73ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fef52015e84df24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de2209f4fcbcca7d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Registry vs Repository.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "660e1b428e2218d5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Registry vs Repository.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "18d8093cccb2f6a3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1982afefe9a8b5e8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Registry vs Repository.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "4d98cd945ef67eec",
+  "lastOpenFiles": [
+    "Techy-note/Untitled.md",
+    "Registry vs Repository.md",
+    "8_Partial Prerendering.md",
+    "Techy-note",
+    "Devops/Linux/Bash/11_if statement.md",
+    "Devops/Linux/Bash/3_Variable.md",
+    "Devops/Linux/Bash/7_My system variable perment.md",
+    "Devops/Linux/Bash/9_Math expression.md",
+    "Devops/Linux/Basics/7_Redirect.md",
+    "Devops/Linux/Basics/6_Pipes and Grep.md",
+    "Devops/Linux/Basics/5_Files Ownership.md",
+    "Devops/Linux/Basics/4_User.md",
+    "Devops/Linux/Basics/1_basic.md",
+    "Devops/Kubernetes/Minikube.md",
+    "Devops/Docker/Docker-commands/1_Docker Basic.md",
+    "Java/Maven/Repositories in Maven.md",
+    "Java/Maven/2_Maven Install.md",
+    "Java/Maven/1_Maven Basics.md",
+    "Devops/Linux/Basics/3_Package Manager Installing.md",
+    "Devops/Linux/Basics/2_basics_part - 2.md",
+    "Devops/Docker/Docker-commands/2_Start and Stop container and delete.md",
+    "Devops/Linux/Bash/Reources.md",
+    "Devops/Linux/Basics",
+    "Devops/Linux",
+    "Devops/Docker/Docker-compose/1_Basics.md",
+    "Devops/Docker/Docker-commands/6_Debugging docker images and container.md",
+    "Devops/Docker/Docker-commands",
+    "Devops/Docker/Docker-commands/11_Volumes.md",
+    "Devops/Docker/Docker-compose",
+    "Devops/Docker/Docker-commands/9_Create Image from container.md",
+    "Devops/Docker/Docker-commands/10_docker_with react.md",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Devops/Kubernetes",
+    "Devops/YAML",
+    "Devops/Linux/Bash",
+    "Devops",
+    "Untitled.png",
+    "sequential-parallel-data-fetching.avif",
+    "server-rendering-with-streaming.avif",
+    "server-rendering-with-streaming-chart.avif",
+    "Untitled 3.canvas",
+    "Devops/Docker",
+    "route-group.avif"
+  ]
+}

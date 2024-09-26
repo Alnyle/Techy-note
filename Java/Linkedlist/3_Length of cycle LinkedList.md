@@ -1,0 +1,2 @@
+
+using fast and slow pointer technique move the the pointer until they met at point particular point then place the fast pointer and move the slow pointer until they met again through that you count cycle length
