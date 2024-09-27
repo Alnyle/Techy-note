@@ -90,7 +90,6 @@ So, your script will output:
 Good Morning Ali!!
 You're looking good today Ali!
 You have the best Bob I've ever seen, Ali!!
-
 ```
 
 example:

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Registry vs Repository.md",
+                "file": "Devops/Linux/Basics/8_Environment variables.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Registry vs Repository.md",
+                "file": "Devops/Linux/Basics/8_Environment variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Registry vs Repository.md",
+                "file": "Devops/Linux/Basics/8_Environment variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,17 +125,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Registry vs Repository.md"
+                "file": "Devops/Linux/Basics/8_Environment variables.md"
               }
+            }
+          },
+          {
+            "id": "bc62555436a441d6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,12 +157,18 @@
   },
   "active": "4d98cd945ef67eec",
   "lastOpenFiles": [
-    "Techy-note/Untitled.md",
+    "Devops/Linux/Basics/Network.md",
+    "Devops/Linux/Basics/8_Environment variables.md",
+    "Devops/Linux/Bash/6_Create and delete your own system variables.md",
+    "Devops/Linux/Bash/5_Build-in Variables in bash.md",
+    "Devops/Linux/Bash/3_Variable.md",
+    "Devops/Linux/Bash/4_Store output of command in variable.md",
+    "Next/4_Rendering types.md",
     "Registry vs Repository.md",
+    "Techy-note/Untitled.md",
     "8_Partial Prerendering.md",
     "Techy-note",
     "Devops/Linux/Bash/11_if statement.md",
-    "Devops/Linux/Bash/3_Variable.md",
     "Devops/Linux/Bash/7_My system variable perment.md",
     "Devops/Linux/Bash/9_Math expression.md",
     "Devops/Linux/Basics/7_Redirect.md",
@@ -171,16 +184,10 @@
     "Devops/Linux/Basics/3_Package Manager Installing.md",
     "Devops/Linux/Basics/2_basics_part - 2.md",
     "Devops/Docker/Docker-commands/2_Start and Stop container and delete.md",
-    "Devops/Linux/Bash/Reources.md",
     "Devops/Linux/Basics",
     "Devops/Linux",
-    "Devops/Docker/Docker-compose/1_Basics.md",
-    "Devops/Docker/Docker-commands/6_Debugging docker images and container.md",
     "Devops/Docker/Docker-commands",
-    "Devops/Docker/Docker-commands/11_Volumes.md",
     "Devops/Docker/Docker-compose",
-    "Devops/Docker/Docker-commands/9_Create Image from container.md",
-    "Devops/Docker/Docker-commands/10_docker_with react.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
