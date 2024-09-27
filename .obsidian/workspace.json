@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Devops/Linux/Basics/8_Environment variables.md",
+                "file": "Devops/Linux/Basics/9_SSH.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Devops/Linux/Basics/8_Environment variables.md",
+                "file": "Devops/Linux/Basics/9_SSH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Devops/Linux/Basics/8_Environment variables.md",
+                "file": "Devops/Linux/Basics/9_SSH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Devops/Linux/Basics/8_Environment variables.md"
+                "file": "Devops/Linux/Basics/9_SSH.md"
               }
             }
           },
@@ -157,8 +157,9 @@
   },
   "active": "4d98cd945ef67eec",
   "lastOpenFiles": [
-    "Devops/Linux/Basics/Network.md",
     "Devops/Linux/Basics/8_Environment variables.md",
+    "Devops/Linux/Basics/9_SSH.md",
+    "Devops/Linux/Basics/Network.md",
     "Devops/Linux/Bash/6_Create and delete your own system variables.md",
     "Devops/Linux/Bash/5_Build-in Variables in bash.md",
     "Devops/Linux/Bash/3_Variable.md",
@@ -183,7 +184,6 @@
     "Java/Maven/1_Maven Basics.md",
     "Devops/Linux/Basics/3_Package Manager Installing.md",
     "Devops/Linux/Basics/2_basics_part - 2.md",
-    "Devops/Docker/Docker-commands/2_Start and Stop container and delete.md",
     "Devops/Linux/Basics",
     "Devops/Linux",
     "Devops/Docker/Docker-commands",

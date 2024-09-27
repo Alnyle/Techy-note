@@ -79,4 +79,4 @@ and add your variable
 export [VARIABLE_NAME_IN_CAPITAL]=value
 ```
 
-after you add your environment variable you have to close and open your shell again to load the new environment variables you add recently 
+after you add your environment variable you have to close and open your shell again to load the new environment variables you added recently 
