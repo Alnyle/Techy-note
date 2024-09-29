@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4882ef7d382f26fd",
+        "id": "70c769d26e816e2c",
         "type": "tabs",
         "children": [
           {
-            "id": "4d98cd945ef67eec",
+            "id": "af5f6747bd5b7545",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Devops/Linux/Basics/9_SSH.md",
+                "file": "AWS/IAM Users and Groups.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Devops/Linux/Basics/9_SSH.md",
+                "file": "AWS/IAM Users and Groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Devops/Linux/Basics/9_SSH.md",
+                "file": "AWS/IAM Users and Groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Devops/Linux/Basics/9_SSH.md"
+                "file": "AWS/IAM Users and Groups.md"
               }
             }
           },
@@ -155,52 +155,52 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4d98cd945ef67eec",
+  "active": "af5f6747bd5b7545",
   "lastOpenFiles": [
-    "Devops/Linux/Basics/8_Environment variables.md",
+    "AWS/IAM Users and Groups.md",
+    "Devops/Docker/Docker-commands/Docker image base.md",
+    "Java/Java Compatibility issue.md",
+    "Next/Next.js.md",
+    "Random/Finding the Rightmost Set Bit.md",
+    "Random/Leetocode roadmap.md",
+    "AWS/IAM",
+    "AWS/Untitled/Untitled.md",
+    "AWS",
+    "Random",
+    "2024-09-16.md",
+    "2024-09-07.md",
+    "Random/route-group.avif",
+    "Random/Untitled 2.canvas",
+    "Random/Untitled 1.canvas",
+    "Random/Untitled.canvas",
+    "Random/server-rendering-with-streaming-chart.avif",
+    "Random/sequential-parallel-data-fetching.avif",
+    "Java/9_Content JDBC Template Repository.md",
+    "Next/8_Partial Prerendering.md",
+    "Devops/Docker/Docker-commands/good Note.md",
+    "Devops/Docker/Docker-commands/10_docker_with react.md",
+    "Devops/Docker/Docker-commands/9_Create Image from container.md",
+    "Devops/Docker/Docker-commands/4_Public and Private docker Registries.md",
+    "Devops/Docker/Docker-commands/3_How to access docker container.md",
+    "Devops/Docker/Docker-commands/2_Start and Stop container and delete.md",
     "Devops/Linux/Basics/9_SSH.md",
+    "Devops/Linux/Basics/8_Environment variables.md",
     "Devops/Linux/Basics/Network.md",
     "Devops/Linux/Bash/6_Create and delete your own system variables.md",
     "Devops/Linux/Bash/5_Build-in Variables in bash.md",
     "Devops/Linux/Bash/3_Variable.md",
     "Devops/Linux/Bash/4_Store output of command in variable.md",
     "Next/4_Rendering types.md",
-    "Registry vs Repository.md",
-    "Techy-note/Untitled.md",
-    "8_Partial Prerendering.md",
+    "Random/Registry vs Repository.md",
     "Techy-note",
-    "Devops/Linux/Bash/11_if statement.md",
-    "Devops/Linux/Bash/7_My system variable perment.md",
-    "Devops/Linux/Bash/9_Math expression.md",
-    "Devops/Linux/Basics/7_Redirect.md",
-    "Devops/Linux/Basics/6_Pipes and Grep.md",
-    "Devops/Linux/Basics/5_Files Ownership.md",
-    "Devops/Linux/Basics/4_User.md",
-    "Devops/Linux/Basics/1_basic.md",
-    "Devops/Kubernetes/Minikube.md",
-    "Devops/Docker/Docker-commands/1_Docker Basic.md",
-    "Java/Maven/Repositories in Maven.md",
-    "Java/Maven/2_Maven Install.md",
-    "Java/Maven/1_Maven Basics.md",
-    "Devops/Linux/Basics/3_Package Manager Installing.md",
-    "Devops/Linux/Basics/2_basics_part - 2.md",
     "Devops/Linux/Basics",
     "Devops/Linux",
     "Devops/Docker/Docker-commands",
     "Devops/Docker/Docker-compose",
-    "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
     "Devops/Kubernetes",
     "Devops/YAML",
-    "Devops/Linux/Bash",
-    "Devops",
-    "Untitled.png",
-    "sequential-parallel-data-fetching.avif",
-    "server-rendering-with-streaming.avif",
-    "server-rendering-with-streaming-chart.avif",
-    "Untitled 3.canvas",
-    "Devops/Docker",
-    "route-group.avif"
+    "Random/Untitled.png",
+    "Random/server-rendering-with-streaming.avif",
+    "Untitled 3.canvas"
   ]
 }
