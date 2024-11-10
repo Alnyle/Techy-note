@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "70c769d26e816e2c",
+        "id": "60fa11c9a728d405",
         "type": "tabs",
         "children": [
           {
-            "id": "af5f6747bd5b7545",
+            "id": "0abf178b9ebf6133",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS/IAM Users and Groups.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -39,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -48,13 +48,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Given",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,10 +64,13 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/IAM Users and Groups.md",
+                "file": "Logic lecture 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +98,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Logic lecture 1"
             }
           },
           {
@@ -102,10 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/IAM Users and Groups.md",
+                "file": "Logic lecture 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Logic lecture 1"
             }
           },
           {
@@ -116,7 +125,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +136,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/IAM Users and Groups.md"
-              }
+                "file": "Logic lecture 1.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Logic lecture 1"
             }
           },
           {
@@ -134,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -155,52 +170,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af5f6747bd5b7545",
+  "active": "0abf178b9ebf6133",
   "lastOpenFiles": [
-    "AWS/IAM Users and Groups.md",
-    "Devops/Docker/Docker-commands/Docker image base.md",
-    "Java/Java Compatibility issue.md",
-    "Next/Next.js.md",
-    "Random/Finding the Rightmost Set Bit.md",
-    "Random/Leetocode roadmap.md",
-    "AWS/IAM",
-    "AWS/Untitled/Untitled.md",
-    "AWS",
-    "Random",
-    "2024-09-16.md",
-    "2024-09-07.md",
-    "Random/route-group.avif",
-    "Random/Untitled 2.canvas",
-    "Random/Untitled 1.canvas",
-    "Random/Untitled.canvas",
-    "Random/server-rendering-with-streaming-chart.avif",
-    "Random/sequential-parallel-data-fetching.avif",
-    "Java/9_Content JDBC Template Repository.md",
-    "Next/8_Partial Prerendering.md",
-    "Devops/Docker/Docker-commands/good Note.md",
-    "Devops/Docker/Docker-commands/10_docker_with react.md",
-    "Devops/Docker/Docker-commands/9_Create Image from container.md",
-    "Devops/Docker/Docker-commands/4_Public and Private docker Registries.md",
-    "Devops/Docker/Docker-commands/3_How to access docker container.md",
-    "Devops/Docker/Docker-commands/2_Start and Stop container and delete.md",
-    "Devops/Linux/Basics/9_SSH.md",
-    "Devops/Linux/Basics/8_Environment variables.md",
-    "Devops/Linux/Basics/Network.md",
-    "Devops/Linux/Bash/6_Create and delete your own system variables.md",
-    "Devops/Linux/Bash/5_Build-in Variables in bash.md",
-    "Devops/Linux/Bash/3_Variable.md",
-    "Devops/Linux/Bash/4_Store output of command in variable.md",
-    "Next/4_Rendering types.md",
-    "Random/Registry vs Repository.md",
-    "Techy-note",
-    "Devops/Linux/Basics",
-    "Devops/Linux",
-    "Devops/Docker/Docker-commands",
-    "Devops/Docker/Docker-compose",
-    "Devops/Kubernetes",
-    "Devops/YAML",
-    "Random/Untitled.png",
-    "Random/server-rendering-with-streaming.avif",
+    "Signal/Lecutre 5.md",
+    "NN/ML/3_lab_1.md",
+    "NN/C1_W1_L3_S1_Lecture_b.png",
+    "OS exam points.md",
+    "NN/ML/1_Intro.md",
+    "NN/ML/4_Cost Function.md",
+    "NN/ML/2_Linear Regression.md",
+    "Logic lecture 1.md",
+    "Signal",
+    "[Logical.md",
+    "[Introduction.md",
+    "NN/Devops/Linux/Basics/1_basic.md",
+    "NN",
+    "Logic",
+    "ML/Cost Function.md",
+    "ML/lab_1.md",
+    "NN/vlcsnap-2024-10-04-16h42m31s959.png",
+    "NN/ML",
+    "NN/1_t5XthZnh0MZx7M3gqu-v-A.webp",
+    "NN/Signals/1_Singles and System Intro.md",
+    "NN/Deveoplement",
+    "NN/AWS/3_EC2_Advance/1_Placement group.md",
+    "NN/Signals",
+    "NN/AWS/2_EC2/4_Spot Instance request.md",
+    "NN/AWS/3_EC2_Advance",
+    "NN/AWS/2_EC2/3_EC2 instance pricing.md",
+    "NN/AWS/2_EC2/2_Instance Types.md",
+    "NN/AWS/2_EC2/1_Intro.md",
+    "NN/AWS/1_IAM/IAM Users and Groups.md",
+    "NN/AWS/2_EC2",
+    "AWS/IAM/Untitled.md",
+    "NN/Devops/Docker/Docker-commands/Docker image base.md",
+    "NN/Deveoplement/Java/Java Compatibility issue.md",
+    "NN/Deveoplement/Next/Next.js.md",
+    "NN/Random/Finding the Rightmost Set Bit.md",
+    "NN/Random/Leetocode roadmap.md",
+    "NN/AWS/1_IAM",
+    "NN/AWS",
+    "NN/Random/route-group.avif",
+    "NN/Random/Untitled 2.canvas",
+    "NN/Random/Untitled 1.canvas",
+    "NN/Random/Untitled.canvas",
+    "NN/Random/server-rendering-with-streaming-chart.avif",
+    "NN/Random/sequential-parallel-data-fetching.avif",
+    "NN/Random/Untitled.png",
+    "NN/Random/server-rendering-with-streaming.avif",
     "Untitled 3.canvas"
   ]
 }
