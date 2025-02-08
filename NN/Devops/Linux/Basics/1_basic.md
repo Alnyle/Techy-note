@@ -84,7 +84,7 @@ rm -r folderNmae
 `rm -d`: Delete an empty directory
 
 ```
-rm -r folderNmae
+rm -d folderNmae
 ```
 
 

@@ -40,7 +40,7 @@ you have to go `/etc` where system configuration location
 - Everyone can read it, but only root user can change the file
 
 2- `/etc/group`
-
+-  It contains the account information of the Group
 
 #### Create User
 
@@ -131,4 +131,22 @@ sudo adduser -G devops tom
 
 ```
 sudo gpasswd -d [user-name] [group-name ]
+```
+
+
+## How to Delete a Group in Linux?
+
+To delete a group simply use the following command
+
+```
+sudo groupdel [group-name]
+```
+
+
+### Change the group of a user
+
+The `-g` option with `usermod` command changes the primary group of a user. For example, to change the primary group of a user `james` to `linuxwizardry`, you can run this command.
+
+```
+sudo usermod -g linuxwizardry james
 ```

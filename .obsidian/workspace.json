@@ -4,51 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f90005ddb302bec3",
+        "id": "e533194a200063e3",
         "type": "tabs",
         "children": [
           {
-            "id": "38a511806cdf9ca5",
+            "id": "4a8eb79a22863547",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/resources.md",
+                "file": "NN/Devops/Linux/Basics/5_Files Ownership.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "resources"
-            }
-          },
-          {
-            "id": "f6ba2da4053919e4",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
-            }
-          },
-          {
-            "id": "15f8408749f5fb9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plan.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Plan"
+              "title": "5_Files Ownership"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -104,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3971705a5eac73ba",
@@ -200,47 +175,47 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "15f8408749f5fb9a",
+  "active": "4a8eb79a22863547",
   "lastOpenFiles": [
-    "Plan.md",
-    "ML/resources.md",
-    "ML",
-    "OS exam points.md",
-    "Untitled.md",
-    "Octal.md",
-    "COA",
-    "Signal/Lecutre 5.md",
-    "NN/ML/3_lab_1.md",
-    "NN/C1_W1_L3_S1_Lecture_b.png",
-    "NN/ML/1_Intro.md",
-    "NN/ML/4_Cost Function.md",
-    "NN/ML/2_Linear Regression.md",
-    "Logic lecture 1.md",
-    "Signal",
-    "[Logical.md",
-    "[Introduction.md",
+    "NN/Devops/Linux/Basics/6_Pipes and Grep.md",
+    "NN/Devops/Linux/Basics/5_Files Ownership.md",
+    "NN/Devops/Linux/Basics/4_User.md",
+    "NN/Devops/Linux/Basics/7_Redirect.md",
+    "NN/Devops/Linux/Basics/Network.md",
+    "NN/Devops/Linux/Basics/9_SSH.md",
+    "NN/Devops/Linux/Basics/8_Environment variables.md",
+    "NN/Devops/Linux/Basics/3_Package Manager Installing.md",
+    "NN/Devops/Linux/Basics/2_basics_part - 2.md",
     "NN/Devops/Linux/Basics/1_basic.md",
+    "NN/Devops/Linux/Bash/6_Create and delete your own system variables.md",
+    "NN/Devops/Linux/Bash/11_if statement.md",
+    "NN/Devops/Linux/Bash/7_My system variable perment.md",
+    "NN/Devops/Linux/Bash/5_Build-in Variables in bash.md",
+    "NN/Devops/Linux/Bash/4_Store output of command in variable.md",
+    "NN/Devops/Linux/Bash/3_Variable.md",
+    "NN/Devops/Linux/Bash/2_file and location and user.md",
+    "NN/Devops/Linux/Bash/1_Bash basic.md",
+    "NN/Devops/Kubernetes/Kubernetes Services.md",
+    "NN/Devops/Kubernetes/Basics.md",
+    "Git/1_basic.md",
+    "Git/plus github.md",
+    "Logic lecture 1.md",
+    "Git",
+    "NN/ML/1_Intro.md",
+    "NN/Signals/1_Singles and System Intro.md",
+    "NN/Devops/YAML/YAML basics.md",
+    "ML",
+    "COA",
+    "NN/C1_W1_L3_S1_Lecture_b.png",
+    "Signal",
     "NN",
     "Logic",
-    "ML/Cost Function.md",
-    "ML/lab_1.md",
     "NN/vlcsnap-2024-10-04-16h42m31s959.png",
     "NN/ML",
     "NN/1_t5XthZnh0MZx7M3gqu-v-A.webp",
-    "NN/Signals/1_Singles and System Intro.md",
     "NN/Deveoplement",
-    "NN/AWS/3_EC2_Advance/1_Placement group.md",
     "NN/Signals",
-    "NN/AWS/2_EC2/4_Spot Instance request.md",
     "NN/AWS/3_EC2_Advance",
-    "NN/AWS/2_EC2/3_EC2 instance pricing.md",
-    "NN/AWS/2_EC2/2_Instance Types.md",
-    "NN/AWS/2_EC2/1_Intro.md",
-    "NN/AWS/1_IAM/IAM Users and Groups.md",
-    "NN/AWS/2_EC2",
-    "AWS/IAM/Untitled.md",
-    "NN/Devops/Docker/Docker-commands/Docker image base.md",
-    "NN/Deveoplement/Java/Java Compatibility issue.md",
     "NN/Random/route-group.avif",
     "NN/Random/Untitled 2.canvas",
     "NN/Random/Untitled 1.canvas",
