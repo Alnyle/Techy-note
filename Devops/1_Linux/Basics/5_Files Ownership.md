@@ -56,7 +56,7 @@ change the ownership of this file to `tom` group
 
 File permissions in Linux are a crucial part of the security model, defining who can read, write, or execute a file. Each file and directory in Linux has an associated set of permissions that determine how users and groups can interact with them.
 
-### nderstanding File Permissions
+### Understanding File Permissions
 
 Permissions in Linux are managed at three levels:
 
