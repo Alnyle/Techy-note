@@ -4,7 +4,7 @@ Docker run  command
 - Creates a new container 
 - Doesn't re-use previous container
 
-##### how all container have created 
+##### show all container have created 
 
 ```
 docker ps -a

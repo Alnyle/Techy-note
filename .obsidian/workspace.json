@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "567213d4990d700f",
+        "id": "93351ae63b3d74fd",
         "type": "tabs",
         "children": [
           {
-            "id": "87ed024670c563d3",
+            "id": "fa515a2b05935545",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NN/Deveoplement/Java/Spring_Boot/9_Spring Data.md",
+                "file": "What This Model Is Doing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9_Spring Data"
+              "title": "What This Model Is Doing"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 299.5
   },
   "right": {
     "id": "3971705a5eac73ba",
@@ -165,6 +165,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -174,55 +175,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc52e1cf88711d1d",
+  "active": "fa515a2b05935545",
   "lastOpenFiles": [
-    "NN/Deveoplement/Java/Spring_Boot/8_Jdbc.md",
-    "NN/Deveoplement/Java/Spring_Boot/7_Repository.md",
-    "NN/Deveoplement/Java/Spring_Boot/6_Cores.md",
-    "NN/Deveoplement/Java/Spring_Boot/04_.md",
-    "NN/Deveoplement/Java/Spring_Boot/03_RestTemplate.md",
-    "NN/Deveoplement/Java/Spring_Boot/02_what is Bean.md",
-    "NN/Deveoplement/Java/Spring_Boot/01_Annoatation & Beans.md",
+    "LLMs/ollama/More about docker.md",
+    "LLMs/ollama",
+    "LLMs/Free LLM keys.md",
+    "Report/Report 1.md",
+    "Report/Report.md",
+    "Report Intelligence/Moxi Robot.md",
+    "Report Intelligence/Intro Part.md",
+    "Software Engineering/Deveoplement/Next/2_Fetching Data.md",
+    "Master/Master program.md",
+    "Software Engineering/ML/resources.md",
+    "Software Engineering/Random/Finding the Rightmost Set Bit.md",
+    "Software Engineering/Random/Leetocode roadmap.md",
+    "Software Engineering/Random/Registry vs Repository.md",
+    "Software Engineering/Random/route-group.avif",
+    "Software Engineering/Random/sequential-parallel-data-fetching.avif",
+    "Software Engineering/Random/server-rendering-with-streaming.avif",
+    "Software Engineering/Random/server-rendering-with-streaming-chart.avif",
+    "Software Engineering/Random/Untitled.png",
+    "NN/Random/Untitled.canvas",
+    "NN/Random/Untitled 1.canvas",
+    "NN/Random/Untitled 2.canvas",
+    "FastAPI/Untitled.md",
+    "Grokking deep learning/3_Neural Network Make Predictions Based on Similarity.md",
+    "Grokking deep learning/2_Dot product.md",
+    "Grokking deep learning/1_First neural network.md",
+    "NN/Untitled.md",
     "NN/Logic lecture 1.md",
-    "NN/Random/Leetocode roadmap.md",
+    "NN/Plan.md",
+    "NN/OS exam points.md",
+    "NN/Octal.md",
+    "Project/Untitled 1/Vocabulary.md",
+    "Project/1_project intro.md",
+    "Project/2_is this mean I it's better always generate weight between -1 and +1 just for worse.md",
+    "LLMs/ollama/Run Models locally.md",
+    "Report Intelligence/Untitled",
+    "Report Intelligence",
+    "LLMs",
+    "UV Tool/Jupyter with uv",
+    "FastAPI",
+    "Word2Vec",
+    "UV Tool",
+    "ML with Pytorch and Scikit-learn/Chapter 1",
+    "ML with Pytorch and Scikit-learn",
     "NN/vlcsnap-2024-10-04-16h42m31s959.png",
     "NN/1_t5XthZnh0MZx7M3gqu-v-A.webp",
     "NN/C1_W1_L3_S1_Lecture_b.png",
-    "NN/ML/2_Linear Regression.md",
-    "NN/ML/3_lab_1.md",
-    "NN/ML/4_Cost Function.md",
-    "NN/ML/1_Intro.md",
-    "Devops/1_Linux/Basics/8_Environment variables.md",
-    "Devops/1_Linux/Basics/7_Redirect.md",
-    "Devops/1_Linux/Basics/6_Pipes and Grep.md",
-    "Devops/1_Linux/Basics/5_Files Ownership.md",
-    "Devops/1_Linux/Basics/4_User.md",
-    "Devops/1_Linux/Bash/11_if statement.md",
-    "Devops/1_Linux/Bash/10_awk.md",
-    "Devops/1_Linux/Bash/9_Math expression.md",
-    "Devops/1_Linux/Bash/7_My system variable perment.md",
-    "Devops/1_Linux/Basics/Network.md",
-    "Devops/1_Linux/Basics/9_SSH.md",
-    "Devops/1_Linux/Basics/3_Package Manager Installing.md",
-    "Devops/1_Linux/Basics/2_basics_part - 2.md",
-    "NN/Git",
-    "NN/ML",
-    "COA",
-    "NN/Signal",
-    "NN",
-    "NN/Logic",
-    "NN/ML",
-    "NN/Deveoplement",
-    "NN/Signals",
-    "Devops/3_AWS/3_EC2_Advance",
-    "NN/Random/route-group.avif",
-    "NN/Random/Untitled 2.canvas",
-    "NN/Random/Untitled 1.canvas",
-    "NN/Random/Untitled.canvas",
-    "NN/Random/server-rendering-with-streaming-chart.avif",
-    "NN/Random/sequential-parallel-data-fetching.avif",
-    "NN/Random/Untitled.png",
-    "NN/Random/server-rendering-with-streaming.avif",
     "Untitled 3.canvas"
   ]
 }
