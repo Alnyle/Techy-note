@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What This Model Is Doing.md",
+                "file": "Software Engineering/Leetocode roadmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What This Model Is Doing"
+              "title": "Leetocode roadmap"
             }
           }
         ]
@@ -175,8 +175,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa515a2b05935545",
+  "active": "dc52e1cf88711d1d",
   "lastOpenFiles": [
+    "Software Engineering/Git/1_basic.md",
+    "Software Engineering/Leetocode roadmap.md",
+    "Software Engineering/Deveoplement/Next/Next.js.md",
+    "Software Engineering/ML resources.md",
+    "Software Engineering/Deveoplement/Next/8_Search functionality.md",
+    "Software Engineering/Deveoplement/Next/8_Partial Prerendering.md",
+    "Software Engineering/Deveoplement/Next/7_ Stream loading skeletons.md",
+    "Software Engineering/Deveoplement/Next/6_Streaming.md",
+    "Software Engineering/Deveoplement/Next/5_Slow data fetch.md",
+    "Software Engineering/Deveoplement/Next/3_Data fetching patterns.md",
+    "Software Engineering/Deveoplement/Next/4_Rendering types.md",
+    "Software Engineering/Deveoplement/Next/2_Fetching Data.md",
+    "Software Engineering/Random/server-rendering-with-streaming-chart.avif",
+    "Software Engineering/Random/server-rendering-with-streaming.avif",
+    "Software Engineering/Random/sequential-parallel-data-fetching.avif",
+    "Software Engineering/Random/route-group.avif",
+    "Software Engineering/Random/Registry vs Repository.md",
+    "Software Engineering/Random/Finding the Rightmost Set Bit.md",
+    "What This Model Is Doing.md",
     "LLMs/ollama/More about docker.md",
     "LLMs/ollama",
     "LLMs/Free LLM keys.md",
@@ -184,16 +203,7 @@
     "Report/Report.md",
     "Report Intelligence/Moxi Robot.md",
     "Report Intelligence/Intro Part.md",
-    "Software Engineering/Deveoplement/Next/2_Fetching Data.md",
     "Master/Master program.md",
-    "Software Engineering/ML/resources.md",
-    "Software Engineering/Random/Finding the Rightmost Set Bit.md",
-    "Software Engineering/Random/Leetocode roadmap.md",
-    "Software Engineering/Random/Registry vs Repository.md",
-    "Software Engineering/Random/route-group.avif",
-    "Software Engineering/Random/sequential-parallel-data-fetching.avif",
-    "Software Engineering/Random/server-rendering-with-streaming.avif",
-    "Software Engineering/Random/server-rendering-with-streaming-chart.avif",
     "Software Engineering/Random/Untitled.png",
     "NN/Random/Untitled.canvas",
     "NN/Random/Untitled 1.canvas",
@@ -202,15 +212,6 @@
     "Grokking deep learning/3_Neural Network Make Predictions Based on Similarity.md",
     "Grokking deep learning/2_Dot product.md",
     "Grokking deep learning/1_First neural network.md",
-    "NN/Untitled.md",
-    "NN/Logic lecture 1.md",
-    "NN/Plan.md",
-    "NN/OS exam points.md",
-    "NN/Octal.md",
-    "Project/Untitled 1/Vocabulary.md",
-    "Project/1_project intro.md",
-    "Project/2_is this mean I it's better always generate weight between -1 and +1 just for worse.md",
-    "LLMs/ollama/Run Models locally.md",
     "Report Intelligence/Untitled",
     "Report Intelligence",
     "LLMs",
