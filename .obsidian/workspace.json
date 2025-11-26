@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Leetocode roadmap.md",
+                "file": "Graduation Project/02_Dataset.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Leetocode roadmap"
+              "title": "02_Dataset"
+            }
+          },
+          {
+            "id": "86773c46c710eab0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UV Tool/Jupyter with uv/01_UV for Jupyter lab.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01_UV for Jupyter lab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,10 +190,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc52e1cf88711d1d",
+  "active": "86773c46c710eab0",
   "lastOpenFiles": [
+    "Graduation Project/03_Resources.md",
+    "Graduation Project/02_Dataset.md",
+    "Software Engineering/data structure/01_Arrays 1.md",
+    "Software Engineering/data structure/01_Arrays.md",
+    "Software Engineering/data structure/02_Dynamic array  (List in python).md",
+    "Pasted image 20251122153232.png",
+    "Pasted image 20251122153225.png",
+    "Software Engineering/Untitled.md",
+    "Software Engineering/data structure",
+    "Book resources.md",
+    "Graduation Project/01_Intro.md",
+    "Software Engineering/Coding Interview/01_Coding Interview Guide.md",
+    "Graduation Project",
+    "Software Engineering/Coding Interview/02_Realistic Weekly Schedule Template.md",
+    "Software Engineering/Coding Interview/Untitled.md",
+    "Software Engineering/Coding Interview/Untitled 1.md",
+    "Software Engineering/Coding Interview/03_Leetocode roadmap.md",
     "Software Engineering/Git/1_basic.md",
-    "Software Engineering/Leetocode roadmap.md",
+    "Software Engineering/Coding Interview",
+    "Software Engineering/Git/Untitled",
     "Software Engineering/Deveoplement/Next/Next.js.md",
     "Software Engineering/ML resources.md",
     "Software Engineering/Deveoplement/Next/8_Search functionality.md",
@@ -195,32 +228,16 @@
     "Software Engineering/Random/route-group.avif",
     "Software Engineering/Random/Registry vs Repository.md",
     "Software Engineering/Random/Finding the Rightmost Set Bit.md",
-    "What This Model Is Doing.md",
-    "LLMs/ollama/More about docker.md",
     "LLMs/ollama",
-    "LLMs/Free LLM keys.md",
-    "Report/Report 1.md",
-    "Report/Report.md",
-    "Report Intelligence/Moxi Robot.md",
-    "Report Intelligence/Intro Part.md",
-    "Master/Master program.md",
     "Software Engineering/Random/Untitled.png",
     "NN/Random/Untitled.canvas",
     "NN/Random/Untitled 1.canvas",
     "NN/Random/Untitled 2.canvas",
-    "FastAPI/Untitled.md",
-    "Grokking deep learning/3_Neural Network Make Predictions Based on Similarity.md",
-    "Grokking deep learning/2_Dot product.md",
-    "Grokking deep learning/1_First neural network.md",
     "Report Intelligence/Untitled",
     "Report Intelligence",
     "LLMs",
     "UV Tool/Jupyter with uv",
     "FastAPI",
-    "Word2Vec",
-    "UV Tool",
-    "ML with Pytorch and Scikit-learn/Chapter 1",
-    "ML with Pytorch and Scikit-learn",
     "NN/vlcsnap-2024-10-04-16h42m31s959.png",
     "NN/1_t5XthZnh0MZx7M3gqu-v-A.webp",
     "NN/C1_W1_L3_S1_Lecture_b.png",
