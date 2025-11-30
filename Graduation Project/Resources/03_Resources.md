@@ -2,6 +2,12 @@
 [UNET Segmentation of OC/OD](https://www.kaggle.com/code/arnavjain1/unet-segmentation-of-oc-od)
 [My code](https://www.kaggle.com/code/ahmedalnile/glaucoma-diagnosing/)
 
+[Why we choose REFUGE2](https://arxiv.org/pdf/2202.08994)
+
+[labels]([Refuge2 and Refuge2Cross Dataset](https://www.kaggle.com/datasets/ferencjuhsz/refuge2-and-refuge2cross-dataset))
+
+[Image Resizing](https://blog.roboflow.com/image-resizing/)
+
 #### Segmentation Guide
 - [what is image segmentation](https://huggingface.co/tasks/image-segmentation)
 - [Transformer-based image segmentation](https://huggingface.co/learn/computer-vision-course/en/unit3/vision-transformers/vision-transformers-for-image-segmentation)
@@ -19,6 +25,7 @@ Segmentation based on [PyTorch](https://pytorch.org/)
 
 
 #### [Attention U-Net: Learning Where to Look for the Pancreas](https://www.kaggle.com/code/truthisneverlinear/attention-u-net-pytorch)
+
 
 
 #### [Med-Adpt Zoo Map 🐘🐊🦍🦒🦨🦜🦥](https://huggingface.co/KidsWithTokens/Medical-Adapter-Zoo)
